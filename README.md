@@ -1,7 +1,7 @@
 # This is my first personal repository
 
 ### This is me and my dog Sasha
-![me and Sasha](/images/sasha.jpg)
+![](images/sasha.jpeg)
 
 ```
 console.log('my name is yael')
